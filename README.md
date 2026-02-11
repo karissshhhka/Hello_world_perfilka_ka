@@ -16,11 +16,11 @@
 
 В ходе работы я написала скрипт, который выполняет простые математические действия:
 ```
-name = "Каринка"
+name = $\color{orchid}{\text{"Каринка"}}$
 a = 10
 b = 5
 result = a + b
-print(f"Hello, {name}!")
-print(f"The result of the addition {a} + {b} is {result}")
+print(f$\color{orchid}{\text{Hello,}}$" {name}!")
+print(f$\color{orchid}{\text{"The result of the addition}}$" {a}$\color{orchid}{\text{+}}$" {b}$\color{orchid}{\text{is}}$" {result}")
 ```
-$\color{orchid}{\text{Ваш фиолетовый текст}}$
+
