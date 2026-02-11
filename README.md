@@ -23,3 +23,4 @@ result = a + b
 print(f"Hello, {name}!")
 print(f"The result of the addition {a} + {b} is {result}")
 ```
+$\color{orchid}{\text{Ваш фиолетовый текст}}$
