@@ -1,1 +1,1 @@
-# Hello_world_perfilka_ka
+# Лабораторная работа №1: Знакомство с Git и Python
