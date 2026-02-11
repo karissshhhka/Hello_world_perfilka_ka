@@ -1,3 +1,3 @@
 # 🙈 **Лабораторная работа №1: Знакомство с Git и Python**
-![Status](https://img.shields.io)
-
+<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+<a id="readme-top"></a>
