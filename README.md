@@ -15,7 +15,7 @@
 # 💻 **Пример кода на Python**  
 
 В ходе работы я написала скрипт, который выполняет простые математические действия:
-```
+```python
 name = "Каринка"
 a = 10
 b = 5
@@ -23,4 +23,3 @@ result = a + b
 print(f"Hello, {name}!")
 print(f"The result of the addition {a} + {b} is {result}")
 ```
-\text{name = }\color{orchid}{\text{"Каринка"}}\(\text{a\ =\ 10}\)\(\text{b\ =\ 5}\)\(\text{result\ =\ a\ +\ b}\)\text{print(f}\color{orchid}{\text{"Hello, "}}\text{\{name\}!)}\text{print(f}\color{orchid}{\text{"The result of the addition "}}\text{\{a\} + \{b\} }\color{orchid}{\text{" is "}}\text{\{result\})}
