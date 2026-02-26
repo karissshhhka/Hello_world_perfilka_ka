@@ -1,0 +1,12 @@
+
+   Destination: google.com
+
+Ping Source           Address                   Latency BufferSize Status
+                                                   (ms)        (B)
+---- ------           -------                   ------- ---------- ------
+   1 LAPTOP-G4QHB6SH  64.233.164.113                 27         32 Success
+   2 LAPTOP-G4QHB6SH  64.233.164.113                 28         32 Success
+   3 LAPTOP-G4QHB6SH  64.233.164.113                 29         32 Success
+   4 LAPTOP-G4QHB6SH  64.233.164.113                 28         32 Success
+   5 LAPTOP-G4QHB6SH  64.233.164.113                 26         32 Success
+
