@@ -1,0 +1,8 @@
+
+    Directory: C:\Users\Karisha\Desktop\perfilka_ka\projects_3\task_3_2
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          26.02.2026    14:46              0 sequencing_backup.log
+-a---          26.02.2026    14:47              0 task_3-2_1.txt
+
