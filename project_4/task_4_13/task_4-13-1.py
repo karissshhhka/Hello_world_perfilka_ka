@@ -1,25 +1,14 @@
-x = float(input("Введите число X: "))
-y = float(input("Введите число Y: "))
-z = float(input("Введите число Z: "))
-w = float(input("Введите число W: "))
+A, B, C, D = float(input()), float(input()), float(input()), float(input())
 
-if x < y:
-    if x < z:
-        if x < w:
-            min_v = x
-        else: min_v = w
-    else: 
-        if z < w:
-            min_v = z
-        else: min_v = w
-else:
-    if y < z:
-        if y < w:
-            min_v = y
-        else: min_v = w
-    else: 
-        if z < w:
-            min_v = z
-        else: min_v = w
+min_val = A
 
-print("Максимальное число:", min_v)
+if B < min_val:
+    min_val = B
+
+if C < min_val:
+    min_val = C
+
+if D < min_val:
+    min_val = D
+
+print(min_val)
